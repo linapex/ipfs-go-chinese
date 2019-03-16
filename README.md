@@ -10,6 +10,10 @@ QQ群：721929980
 
 博客：https://my.oschina.net/linapex
 
+公链定制：
+http://jsq.ink
+http://aidapp.vip
+
 
 ![banner](https://ipfs.io/ipfs/QmVk7srrwahXLNmcDYvyUEJptyoxpndnRa57YJ11L4jV26/ipfs.go.png)
 
